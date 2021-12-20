@@ -1,8 +1,7 @@
 {
   "name": "challenge_zoom",
   "version": "1.0.0",
-  "description": "Zoom Challenge",
-  "main": "index.js",
+  "description": "Zoom Clone using WebRTC and Websocket",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,9 +11,15 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/anjin91/challenge_zoom/issues"
   },
-  "homepage": "https://github.com/anjin91/challenge_zoom#readme"
+  "homepage": "https://github.com/anjin91/challenge_zoom#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.5",
+    "@babel/node": "^7.16.5",
+    "nodemon": "^2.0.15"
+  }
 }

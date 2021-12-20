@@ -1,2 +1,3 @@
 # challenge_zoom
-Zoom Challenge
+
+Zoom Clone using NodeJS, WebRTC and Websocket.
