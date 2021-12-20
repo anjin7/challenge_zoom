@@ -1,0 +1,20 @@
+{
+  "name": "challenge_zoom",
+  "version": "1.0.0",
+  "description": "Zoom Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjin91/challenge_zoom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anjin91/challenge_zoom/issues"
+  },
+  "homepage": "https://github.com/anjin91/challenge_zoom#readme"
+}
